@@ -1,3 +1,6 @@
+Run the Project by following command:
+php -S localhost:8000
+-----------------------------------------------------
 **Create api:**
 http://localhost:8000/api.php
 Method : POST
